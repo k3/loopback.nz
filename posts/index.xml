@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Loopback.NZ</title>
-    <link>https://loopback.nz/</link>
-    <description>Recent content on Loopback.NZ</description>
+    <title>Posts on Loopback.NZ</title>
+    <link>https://loopback.nz/posts/</link>
+    <description>Recent content in Posts on Loopback.NZ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Apr 2026 09:42:13 +1200</lastBuildDate>
-    <atom:link href="https://loopback.nz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://loopback.nz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Loopback.NZ</title>
       <link>https://loopback.nz/posts/welcome/</link>
