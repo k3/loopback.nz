@@ -6,8 +6,15 @@
     <description>Recent content on Loopback.NZ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 09:42:13 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 10:44:12 +1200</lastBuildDate>
     <atom:link href="https://loopback.nz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://loopback.nz/about/</link>
+      <pubDate>Tue, 07 Apr 2026 10:44:12 +1200</pubDate>
+      <guid>https://loopback.nz/about/</guid>
+      <description>&lt;p&gt;This site is just a placeholder. It used to contain useful content, but the only visitors were from AI bots.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to Loopback.NZ</title>
       <link>https://loopback.nz/post/welcome/</link>
