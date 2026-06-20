@@ -71,3 +71,7 @@ publishDir = 'plublic'
   series = "series"
 
 
+# For github pages
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
