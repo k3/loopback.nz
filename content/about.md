@@ -6,3 +6,4 @@ title = 'About'
 
 This site is just a placeholder. It used to contain useful content, but the only visitors were from AI bots.
 
+
