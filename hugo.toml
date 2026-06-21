@@ -1,4 +1,7 @@
-baseURL = 'https://loopback.nz/'
+#
+# Hugo configuration for loopback.nz public web site
+#
+baseURL = 'https://www.loopback.nz/'
 languageCode = 'en-us'
 title = 'Loopback.NZ'
 
