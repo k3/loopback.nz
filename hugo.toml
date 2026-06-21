@@ -4,7 +4,7 @@ title = 'Loopback.NZ'
 
 theme = "paper"
 
-publishDir = 'plublic'
+publishDir = 'public'
 
 [services]
   #[services.disqus]
