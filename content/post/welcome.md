@@ -7,5 +7,9 @@ title = 'Welcome to Loopback.NZ'
 
 Welcome to the new site.
 
-This page is just a placeholder.
+It's really just a place-holder, and a development site for testing
+[Hugo](https://gohugo.io) page builds and themes.
+
+Thanks to [Github Pages](https://pages.github.com/) for the free
+hosting for static content.
 

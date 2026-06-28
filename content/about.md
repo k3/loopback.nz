@@ -4,6 +4,7 @@ draft = false
 title = 'About'
 +++
 
-This site is just a placeholder. It used to contain useful content, but the only visitors were from AI bots.
+This site is just a placeholder. It contains no real content of
+interest.
 
 
